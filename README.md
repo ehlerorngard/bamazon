@@ -30,7 +30,7 @@ The table can be populated with data by running the bamazonManager.js file and s
 You'll also need to change the mysql localhost connection credentials to match your own.  
 
 
-## bamazonCustomer.js
+## Running the Customer Console
 
 Simply open the file 'bamazonCustomer.js' in the terminal using node or nodemon:
 
@@ -43,7 +43,7 @@ You'll then be able to make purchases as a user;  these will affect the inventor
 
 ![screenshot of working app](/images/2.png)
 
-## bamazonManager.js
+## Running the Manager Console
 
 Simply open the file 'bamazonManager.js' in the terminal, similarly to as show above. 
 
